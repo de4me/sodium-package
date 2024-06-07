@@ -1,0 +1,8 @@
+package: sodium
+platformname: macosx iphoneos iphonesimulator macosx
+date: macosx(07.06.2024, 10.17.02) iphoneos(07.06.2024, 10.17.08) iphonesimulator(07.06.2024, 10.17.12) macosx(07.06.2024, 10.17.18)
+minimumversion: macosx(10.13) iphoneos(12.0) iphonesimulator(12.0) macosx(10.15)
+platformversion: macosx(14.5) iphoneos(17.5) iphonesimulator(17.5) macosx(14.5)
+sdkversion: macosx(1540) iphoneos(1540) iphonesimulator(1540) macosx(1540)
+bundleversion: macosx(1.0.20) iphoneos(1.0.20) iphonesimulator(1.0.20) macosx(1.0.20)
+checksum: 5eb16942b9a64d952de44861d76cee93316660da0953e8dc82fe432c7154b9e7
